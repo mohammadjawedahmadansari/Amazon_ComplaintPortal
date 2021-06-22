@@ -1,0 +1,52 @@
+
+
+
+{
+  "status" : true,
+  "data": [
+    {
+      "complain_id": "1001",
+      "district" : "Nalanda",
+      "ward": "40",
+      "complaint_type": "Device Burnt",
+      "date": "Today",
+      "status": "Closed",
+      "fix_by": "Ramesh Kumar",
+      "mobile": "9007645672",
+      "snapshot": "asset/images/complaints_images/burnt_capacitor.jpg"
+    },
+    {
+      "complain_id": "1002",
+      "district" : "",
+      "ward": "30",
+      "complaint_type": "Motor Issue",
+      "date": "Yesterday",
+      "status": "New",
+      "fix_by": "Prakash Kumar",
+      "mobile": "9007645672",
+      "snapshot": "asset/images/complaints_images/burnt_capacitor.jpg"
+    },
+    {
+      "complain_id": "1003",
+      "district" : "Nalanda",
+      "ward": "47",
+      "complaint_type": "Device Not Working",
+      "date": "16-Jun-2021",
+      "status": "In-Progress",
+      "fix_by": "Priti Kumari",
+      "mobile": "9876435364",
+      "snapshot": "asset/images/complaints_images/burnt_capacitor.jpg"
+    },
+    {
+      "complain_id": "1004",
+      "district" : "Nalanda",
+      "ward": "52",
+      "complaint_type": "Device Burnt",
+      "date": "05-May-2021",
+      "status": "Closed",
+      "fix_by": "Ramesh Kumar",
+      "mobile": "9007645672",
+      "snapshot": "asset/images/complaints_images/burnt_capacitor.jpg"
+    }
+  ]
+}
